@@ -8,7 +8,7 @@
 
 ## 前言
 
-该项目为前后端分离项目的前端部分，后端项目`mall`地址：[传送门](https://github.com/macrozheng/mall)。
+该项目为前后端分离项目的前端部分，后端项目`mall`地址：[传送门](https://github.com/Lusyu/mall)。
 
 ## 项目介绍
 
@@ -16,7 +16,7 @@
 
 ### 项目演示
 
-项目在线演示地址：[http://www.macrozheng.com/admin/](http://www.macrozheng.com/admin/)  
+项目在线演示地址：[http://www.macrozheng.com/admin/](http://www.macrozheng.com/admin/)
 
 ![https://github.com/macrozheng/mall/blob/master/document/resource/mall-admin.gif](https://github.com/macrozheng/mall/blob/master/document/resource/mall-admin.gif)
 

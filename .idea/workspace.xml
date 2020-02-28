@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88611af0-ca5d-4c3a-990c-a84edf4f3829" name="Default Changelist" comment="" />
+    <list default="true" id="88611af0-ca5d-4c3a-990c-a84edf4f3829" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XCoqupjpUxGnkmyKG0wRwy3bsH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +30,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="ts.external.directory.path" value="W:\program files\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="ServiceViewManager">
@@ -71,7 +78,15 @@
       <workItem from="1582090060915" duration="1974000" />
       <workItem from="1582165344332" duration="394000" />
       <workItem from="1582170383416" duration="1350000" />
-      <workItem from="1582181587509" duration="1877000" />
+      <workItem from="1582181587509" duration="2778000" />
+      <workItem from="1582199803833" duration="1668000" />
+      <workItem from="1582255675606" duration="1591000" />
+      <workItem from="1582268133790" duration="1968000" />
+      <workItem from="1582350807643" duration="796000" />
+      <workItem from="1582453189210" duration="743000" />
+      <workItem from="1582517325623" duration="658000" />
+      <workItem from="1582765505958" duration="839000" />
+      <workItem from="1582866731373" duration="77000" />
     </task>
     <servers />
   </component>
@@ -79,10 +94,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1582165384427">
+    <state x="363" y="98" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582255918810">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582165384427" />
+    <state x="363" y="98" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1582255918810" />
+    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1582199885412">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582199885412" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1582185566261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582185566261" />
+    <state x="511" y="253" key="Github.ShareDialog" timestamp="1582199963965">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="511" y="253" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1582199963965" />
+    <state x="422" y="63" key="Github.UntrackedFilesDialog" timestamp="1582199993221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="422" y="63" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1582199993221" />
     <state width="1344" height="240" key="GridCell.Tab.0.bottom" timestamp="1580565402795">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -99,9 +130,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1344" height="240" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580565402795" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1582185551461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582185551461" />
     <state x="359" y="95" width="786" height="608" key="find.popup" timestamp="1582100597404">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="359" y="95" width="786" height="608" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1582100597404" />
+    <state x="513" y="154" key="svn.repositoryBrowser" timestamp="1582200408713">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="154" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1582200408713" />
   </component>
 </project>

@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="88611af0-ca5d-4c3a-990c-a84edf4f3829" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/home/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/home/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pms/product/components/ProductAttrDetail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pms/product/components/ProductAttrDetail.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +88,20 @@
       <workItem from="1582453189210" duration="743000" />
       <workItem from="1582517325623" duration="658000" />
       <workItem from="1582765505958" duration="839000" />
-      <workItem from="1582866731373" duration="335000" />
+      <workItem from="1582866731373" duration="1971000" />
+      <workItem from="1582937562975" duration="1155000" />
+      <workItem from="1583393268028" duration="1878000" />
+      <workItem from="1583456573894" duration="4807000" />
+      <workItem from="1583475863340" duration="25000" />
+      <workItem from="1583552625836" duration="2061000" />
+      <workItem from="1583716217644" duration="71000" />
+      <workItem from="1583991949284" duration="599000" />
+      <workItem from="1584079578992" duration="737000" />
+      <workItem from="1584081084579" duration="13000" />
+      <workItem from="1584500642477" duration="3606000" />
+      <workItem from="1584508781054" duration="25000" />
+      <workItem from="1585897213700" duration="714000" />
+      <workItem from="1586342452825" duration="176000" />
     </task>
     <task id="LOCAL-00001" summary="完成">
       <created>1582866843390</created>
@@ -103,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582867014822</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="完成">
+      <created>1582867099699</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582867099699</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,14 +139,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="98" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1582255918810" />
-    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1582867008410">
+    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1582867097351">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582867008410" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1582185566261">
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582867097351" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1584508810674">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582185566261" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584508810674" />
     <state x="511" y="253" key="Github.ShareDialog" timestamp="1582199963965">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -154,14 +175,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582185551461" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1582867016548">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1582867100858">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1582867016548" />
-    <state x="359" y="95" width="786" height="608" key="find.popup" timestamp="1582100597404">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1582867100858" />
+    <state x="359" y="95" width="786" height="608" key="find.popup" timestamp="1584500812189">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="359" y="95" width="786" height="608" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1582100597404" />
+    <state x="359" y="95" width="786" height="608" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1584500812189" />
     <state x="513" y="154" key="svn.repositoryBrowser" timestamp="1582200408713">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

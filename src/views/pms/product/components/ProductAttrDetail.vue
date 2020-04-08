@@ -31,7 +31,7 @@
                 </div>
               </el-checkbox-group>
               <el-input v-model="addProductAttrValue" style="width: 160px;margin-left: 10px" clearable></el-input>
-              <el-button class="littleMarginLeft" @click="handleAddProductAttrValue(idx)">增加</el-button>
+              <el-button class="littleMarginLeft" @click="handleAddProductAttrValue(idx)" >增加</el-button>
             </div>
           </div>
         </el-card>
@@ -367,6 +367,7 @@
         return inputList.split(',');
       },
       handleAddProductAttrValue(idx) {
+        console.log(idx);
         let options = this.selectProductAttr[idx].options;
         if (this.addProductAttrValue == null || this.addProductAttrValue == '') {
           this.$message({

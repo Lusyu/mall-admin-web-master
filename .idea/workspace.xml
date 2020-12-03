@@ -3,8 +3,370 @@
   <component name="ChangeListManager">
     <list default="true" id="88611af0-ca5d-4c3a-990c-a84edf4f3829" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/home/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/home/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/pms/product/components/ProductAttrDetail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pms/product/components/ProductAttrDetail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/node-sass" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/node-sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/node-sass.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/node-sass.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/bin/emcc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/bin/emcc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/bin/node-sass" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/bin/node-sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/binding.gyp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/binding.gyp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/lib/binding.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/lib/binding.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/lib/errors.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/lib/errors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/lib/extensions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/lib/extensions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/lib/render.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/lib/render.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/lib/watcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/lib/watcher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/ansi-styles/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/ansi-styles/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/ansi-styles/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/ansi-styles/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/chalk/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/node_modules/chalk/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/chalk/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/node_modules/chalk/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/chalk/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/node_modules/chalk/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/chalk/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/node_modules/chalk/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/appveyor.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/lib/enoent.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/lib/enoent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/lib/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/lib/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/lib/resolveCommand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/supports-color/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/supports-color/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/supports-color/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/supports-color/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/scripts/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/scripts/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/scripts/coverage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/scripts/install.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/scripts/install.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/scripts/prepublish.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/scripts/prepublish.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/scripts/util/downloadoptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/scripts/util/downloadoptions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/scripts/util/proxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/scripts/util/proxy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/scripts/util/useragent.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/scripts/util/useragent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/binding.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/binding.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/callback_bridge.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/callback_bridge.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/create_string.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/create_string.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/create_string.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/create_string.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/custom_function_bridge.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/custom_function_bridge.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/custom_function_bridge.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/custom_function_bridge.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/custom_importer_bridge.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/custom_importer_bridge.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/custom_importer_bridge.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/custom_importer_bridge.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass.gyp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass.gyp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/.github/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/.github/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/.github/ISSUE_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/COPYING" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/COPYING" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/GNUmakefile.am" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/GNUmakefile.am" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/INSTALL" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/INSTALL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/Makefile.conf" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/Makefile.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/SECURITY.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/SECURITY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/appveyor.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/configure.ac" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/configure.ac" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/contrib/libsass.spec" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/contrib/libsass.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/contrib/plugin.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/contrib/plugin.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-context-example.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-context-example.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-context-internal.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-context-internal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-context.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-context.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-doc.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-doc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-function-example.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-function-example.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-function-internal.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-function-internal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-function.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-function.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-importer-example.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-importer-example.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-importer-internal.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-importer-internal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-importer.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-importer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-value-example.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-value-example.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-value-internal.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-value-internal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-value.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/api-value.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build-on-darwin.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build-on-darwin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build-on-gentoo.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build-on-gentoo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build-on-windows.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build-on-windows.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build-shared-library.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build-shared-library.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build-with-autotools.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build-with-autotools.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build-with-makefiles.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build-with-makefiles.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build-with-mingw.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build-with-mingw.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build-with-visual-studio.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build-with-visual-studio.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/build.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/compatibility-plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/compatibility-plan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/contributing.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/contributing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/custom-functions-internal.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/custom-functions-internal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/dev-ast-memory.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/dev-ast-memory.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/implementations.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/implementations.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/plugins.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/plugins.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/setup-environment.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/setup-environment.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/source-map-internals.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/source-map-internals.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/trace.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/trace.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/triage.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/triage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/unicode.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/unicode.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/extconf.rb" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/extconf.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/include/sass.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/include/sass.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/include/sass/base.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/include/sass/base.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/include/sass/context.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/include/sass/context.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/include/sass/functions.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/include/sass/functions.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/include/sass/values.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/include/sass/values.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/include/sass/version.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/include/sass/version.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/include/sass/version.h.in" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/include/sass/version.h.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/include/sass2scss.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/include/sass2scss.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/m4/m4-ax_cxx_compile_stdcxx_11.m4" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/m4/m4-ax_cxx_compile_stdcxx_11.m4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/res/resource.rc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/res/resource.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/bootstrap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/bootstrap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/branding" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/branding" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/ci-build-libsass" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/ci-build-libsass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/ci-build-plugin" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/ci-build-plugin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/ci-install-compiler" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/ci-install-compiler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/ci-install-deps" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/ci-install-deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/ci-report-coverage" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/ci-report-coverage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/spec" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/tap-driver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/tap-driver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/tap-runner" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/tap-runner" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/test-leaks.pl" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/test-leaks.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/GNUmakefile.am" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/GNUmakefile.am" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/ast.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/ast.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/ast.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/ast.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/ast_def_macros.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/ast_def_macros.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/ast_fwd_decl.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/ast_fwd_decl.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/ast_fwd_decl.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/ast_fwd_decl.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/b64/cencode.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/b64/cencode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/b64/encode.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/b64/encode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/backtrace.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/backtrace.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/backtrace.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/backtrace.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/base64vlq.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/base64vlq.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/base64vlq.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/base64vlq.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/bind.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/bind.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/bind.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/bind.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/c99func.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/c99func.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/cencode.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/cencode.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/check_nesting.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/check_nesting.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/check_nesting.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/check_nesting.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/color_maps.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/color_maps.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/color_maps.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/color_maps.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/constants.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/constants.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/constants.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/constants.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/context.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/context.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/context.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/context.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/cssize.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/cssize.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/cssize.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/cssize.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/debug.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/debug.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/debugger.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/debugger.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/emitter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/emitter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/emitter.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/emitter.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/environment.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/environment.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/environment.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/environment.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/error_handling.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/error_handling.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/error_handling.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/error_handling.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/eval.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/eval.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/eval.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/eval.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/expand.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/expand.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/expand.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/expand.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/extend.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/extend.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/extend.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/extend.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/file.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/file.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/file.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/file.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/functions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/functions.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/functions.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/functions.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/inspect.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/inspect.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/inspect.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/inspect.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/json.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/json.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/json.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/json.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/kwd_arg_macros.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/kwd_arg_macros.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/lexer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/lexer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/lexer.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/lexer.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/listize.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/listize.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/listize.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/listize.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/mapping.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/mapping.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/memory/SharedPtr.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/memory/SharedPtr.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/memory/SharedPtr.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/memory/SharedPtr.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/node.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/node.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/node.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/node.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/operation.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/operation.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/operators.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/operators.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/operators.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/operators.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/output.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/output.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/output.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/output.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/parser.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/parser.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/parser.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/parser.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/paths.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/paths.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/plugins.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/plugins.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/plugins.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/plugins.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/position.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/position.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/position.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/position.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/prelexer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/prelexer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/prelexer.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/prelexer.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/remove_placeholders.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/remove_placeholders.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/remove_placeholders.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/remove_placeholders.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass2scss.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass2scss.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_context.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_context.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_context.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_context.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_functions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_functions.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_functions.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_functions.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_util.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_util.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_util.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_util.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_values.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_values.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_values.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_values.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/source_map.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/source_map.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/source_map.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/source_map.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/subset_map.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/subset_map.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/subset_map.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/subset_map.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/support/libsass.pc.in" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/support/libsass.pc.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/to_c.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/to_c.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/to_c.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/to_c.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/to_value.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/to_value.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/to_value.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/to_value.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/units.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/units.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/units.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/units.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/utf8.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/utf8.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/utf8/checked.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/utf8/checked.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/utf8/core.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/utf8/core.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/utf8/unchecked.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/utf8/unchecked.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/utf8_string.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/utf8_string.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/utf8_string.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/utf8_string.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/util.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/util.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/util.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/util.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/values.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/values.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/values.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/values.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/test/test_node.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/test/test_node.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/test/test_paths.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/test/test_paths.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/test/test_selector_difference.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/test/test_selector_difference.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/test/test_specificity.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/test/test_specificity.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/test/test_subset_map.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/test/test_subset_map.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/test/test_superselector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/test/test_superselector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/test/test_unification.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/test/test_unification.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/version.sh" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/version.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/win/libsass.sln" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/win/libsass.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/win/libsass.sln.DotSettings" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/win/libsass.sln.DotSettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/win/libsass.targets" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/win/libsass.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/win/libsass.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/win/libsass.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/win/libsass.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/win/libsass.vcxproj.filters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_context_wrapper.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_context_wrapper.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_context_wrapper.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_context_wrapper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/boolean.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/boolean.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/boolean.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/boolean.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/color.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/color.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/color.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/color.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/error.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/error.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/error.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/error.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/factory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/factory.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/factory.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/factory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/list.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/list.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/list.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/list.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/map.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/map.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/map.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/map.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/null.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/null.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/null.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/null.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/number.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/number.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/number.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/number.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/sass_value_wrapper.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/sass_value_wrapper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/string.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/string.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/string.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/string.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/value.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/sass_types/value.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/binding.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/binding.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/cli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/downloadoptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/downloadoptions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/errors.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/errors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/compressed/expected.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/compressed/expected.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/compressed/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/compressed/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/custom-functions/setter-expected.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/custom-functions/setter-expected.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/custom-functions/setter.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/custom-functions/setter.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/custom-functions/string-conversion-expected.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/custom-functions/string-conversion-expected.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/custom-functions/string-conversion.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/custom-functions/string-conversion.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/cwd-include-path/expected.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/cwd-include-path/expected.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/cwd-include-path/outside.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/cwd-include-path/outside.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/cwd-include-path/root/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/cwd-include-path/root/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/_common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/_struct.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/_struct.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/_vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/a.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/a.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/a1.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/a1.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/b.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/b.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/b1.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/b1.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/expected.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/expected.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/depth-first/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_arrays_of_importers.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_arrays_of_importers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_functions_setter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_functions_setter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_functions_string_conversion.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_functions_string_conversion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_importer_data.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_importer_data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_importer_data_cb.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_importer_data_cb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_importer_error.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_importer_error.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_importer_file.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_importer_file.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_importer_file_and_data.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_importer_file_and_data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_importer_file_and_data_cb.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_importer_file_and_data_cb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_importer_file_cb.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/extras/my_custom_importer_file_cb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/follow/foo/bar/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/follow/foo/bar/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-files/bar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-files/bar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-files/chained-imports-with-custom-importer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-files/chained-imports-with-custom-importer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-files/expected-importer.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-files/expected-importer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-files/file-not-processed-by-loader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-files/file-not-processed-by-loader.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-files/file-processed-by-loader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-files/file-processed-by-loader.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-files/foo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-files/foo.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-files/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-files/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-path/expected.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-path/expected.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-path/functions/colorBlue.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-path/functions/colorBlue.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-path/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-path/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-path/lib/vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/include-path/lib/vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/indent/expected.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/indent/expected.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/indent/index.sass" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/indent/index.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/input-directory/sass/_skipped.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/input-directory/sass/_skipped.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/input-directory/sass/nested/three.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/input-directory/sass/nested/three.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/input-directory/sass/one.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/input-directory/sass/one.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/input-directory/sass/two.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/input-directory/sass/two.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/invalid/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/invalid/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/output-directory/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/output-directory/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/precision/expected.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/precision/expected.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/precision/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/precision/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/sass-path/expected-orange.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/sass-path/expected-orange.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/sass-path/expected-red.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/sass-path/expected-red.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/sass-path/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/sass-path/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/sass-path/orange/colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/sass-path/orange/colors.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/sass-path/red/colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/sass-path/red/colors.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/simple/expected.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/simple/expected.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/simple/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/simple/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/source-comments/expected.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/source-comments/expected.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/source-comments/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/source-comments/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/source-map-embed/expected.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/source-map-embed/expected.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/source-map-embed/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/source-map-embed/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/source-map/expected.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/source-map/expected.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/source-map/expected.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/source-map/expected.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/source-map/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/source-map/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watcher/main/one.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watcher/main/one.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watcher/main/partials/_one.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watcher/main/partials/_one.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watcher/main/partials/_three.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watcher/main/partials/_three.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watcher/main/partials/_two.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watcher/main/partials/_two.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watcher/main/three.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watcher/main/three.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watcher/main/two.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watcher/main/two.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watcher/sibling/partials/_three.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watcher/sibling/partials/_three.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watcher/sibling/three.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watcher/sibling/three.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watching-dir-01/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watching-dir-01/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watching-dir-02/foo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watching-dir-02/foo.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watching-dir-02/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watching-dir-02/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watching/bar.sass" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watching/bar.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watching/index.sass" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watching/index.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watching/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watching/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watching/white.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watching/white.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/lowlevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/lowlevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/runtime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/scripts/util/proxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/scripts/util/proxy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/useragent.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/useragent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/test/watcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/test/watcher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/vendor/win32-x64-57/binding.node" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +380,10 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -34,6 +396,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="ts.external.directory.path" value="W:\program files\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -47,6 +410,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -102,6 +466,7 @@
       <workItem from="1584508781054" duration="25000" />
       <workItem from="1585897213700" duration="714000" />
       <workItem from="1586342452825" duration="176000" />
+      <workItem from="1606987374932" duration="667000" />
     </task>
     <task id="LOCAL-00001" summary="完成">
       <created>1582866843390</created>
@@ -128,7 +493,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完成" />
